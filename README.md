@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amerina
+- 👋 Hi, I’m @Tom
 - 👀 I’m interested in .netcore related technologies,DDD,Docker,Clean architecture and so on
 - 🌱 I’m currently learning DDD
 - 💞️ I’m looking to collaborate on ...
